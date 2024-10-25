@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abhishek MR
 - 👀 I’m interested in Data Science & Story Telling 
-- 🌱 I’m currently learning Data Science & M
+- 🌱 I’m currently learning Data Science & ML
 - 📫 How to reach me : Direct DM
 - 😄 Pronouns: THE
 - ⚡ Fun fact: Me itself is a fun fact🌝
