@@ -12,7 +12,8 @@ Aspiring **Data Scientist** | **Machine Learning Enthusiast** | **Storytelling A
 ---
 
 ## Connect with Me:
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/abhishekmr24)
+[![LinkedIn](https://img.shields.io/static/v1?label=&message=LinkedIn&color=0077B5&logo=linkedin&logoColor=white&style=flat-square)]
+(www.linkedin.com/in/abhishekmr24)
 - [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white&color=1DA1F2)](https://twitter.com/your-twitter-handle)  
 - [![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Melavihator)  
  
