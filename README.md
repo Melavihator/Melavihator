@@ -12,11 +12,20 @@ Aspiring **Data Scientist** | **Machine Learning Enthusiast** | **Storytelling A
 ---
 
 ## Connect with Me:
-[![LinkedIn](https://img.shields.io/static/v1?label=&message=LinkedIn&color=0077B5&logo=linkedin&logoColor=white&style=flat-square)]
-(www.linkedin.com/in/abhishekmr24)
-- [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white&color=1DA1F2)](https://twitter.com/your-twitter-handle)  
-- [![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Melavihator)  
- 
+<div align="center">
+  <a href="https://www.linkedin.com/in/your-linkedin-profile" target="www.linkedin.com/in/abhishekmr24">
+    <img src="https://img.icons8.com/3d-fluency/94/linkedin.png" alt="LinkedIn" width="40" height="40" style="margin-right: 10px;" />
+  </a>
+  <a href="https://twitter.com/your-twitter-handle" target="https://x.com/Melavihat0r">
+    <img src="https://img.icons8.com/fluency/48/twitterx--v1.png" alt="Twitter" width="40" height="40" style="margin-right: 10px;" />
+  </a>
+  <a href="https://github.com/Melavihator" target="https://github.com/Melavihator">
+    <img src="https://img.icons8.com/3d-fluency/94/github.png" alt="GitHub" width="40" height="40" style="margin-right: 10px;" />
+  </a>
+  <a href="https://www.instagram.com/your-instagram-handle" target="https://www.instagram.com/melavihator">
+    <img src="https://img.icons8.com/3d-fluency/94/instagram-new.png" alt="Instagram" width="40" height="40" style="margin-right: 10px;" />
+  </a>
+</div>
 
 ---
 
