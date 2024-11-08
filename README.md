@@ -13,7 +13,7 @@ Aspiring **Data Scientist** | **Machine Learning Enthusiast** | **Storytelling A
 
 ## Connect with Me:
 <div align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-profile" target="https://www.linkedin.com/in/abhishekmr24/">
+  <a href="https://www.linkedin.com/in/abhishekmr24/" target="https://www.linkedin.com/in/abhishekmr24/">
     <img src="https://img.icons8.com/3d-fluency/94/linkedin.png" alt="LinkedIn" width="40" height="40" style="margin-right: 10px;" />
   </a>
   <a href="https://twitter.com/your-twitter-handle" target="https://x.com/Melavihat0r">
