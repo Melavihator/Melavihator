@@ -25,6 +25,15 @@ Aspiring **Data Scientist** | **Machine Learning Enthusiast** | **Storytelling A
   <a href="https://www.instagram.com/melavihator" target="https://www.instagram.com/melavihator">
     <img src="https://img.icons8.com/3d-fluency/94/instagram-new.png" alt="Instagram" width="40" height="40" style="margin-right: 10px;" />
   </a>
+  <a href="https://www.facebook.com/abhishek.abhijith.7" target="https://www.facebook.com/abhishek.abhijith.7">
+    <img src="https://img.icons8.com/color/48/facebook.png" alt="Facebook" width="40" height="40" style="margin-right: 10px;" />
+  </a>
+  <a href="https://www.youtube.com/@Melavihator" target="https://www.youtube.com/@Melavihator">
+    <img src="https://img.icons8.com/fluency/48/youtube-play.png" alt="Youtube" width="40" height="40" style="margin-right: 10px;" />
+  </a>
+  <a href="https://www.snapchat.com/add/melavihato6?share_id=QpEkM3QM4dY&locale=en-US" target="https://www.snapchat.com/add/melavihato6?share_id=QpEkM3QM4dY&locale=en-US">
+    <img src="https://img.icons8.com/3d-fluency/94/snapchat.png" alt="SnapChat" width="40" height="40" style="margin-right: 10px;" />
+  </a>
 </div>
 
 ---
